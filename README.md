@@ -101,3 +101,11 @@ Use the arrow keys to control the snake's movement:
 **2. Script Doesn't Run:**
 
 - Ensure Python is installed and added to the system's PATH.
+
+
+
+
+
+
+
+![Alt Text](https://github.com/user-attachments/assets/239d8ee2-1e67-4c90-983c-f76d2312caf0)
